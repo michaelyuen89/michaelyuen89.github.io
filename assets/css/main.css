@@ -7,6 +7,32 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/* Skills */
+
+.skills {
+	/* display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly; */
+	display: grid;
+  	grid-template: 150px / auto auto auto auto auto auto auto auto;
+  	grid-gap: 10px;
+}
+
+.skill {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.skill svg {
+	height: 60px;
+	width: 60px;
+}
+
+.devicon {
+	font-size: 60px;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
