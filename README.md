@@ -2,4 +2,4 @@
 
 Hello! This repo contains the code for my portfolio. Check it out via the live link below.
 
-<a href="michaelyuen89.github.io">Live Link </a>
+<a href="https://michaelyuen89.github.io">Live Link </a>
